@@ -37,7 +37,7 @@ int main(){
 
     float cgpa = totalCredits / totalPoints;
 
-    cout<<"-------Result-------\n";
+    cout<<"\n-------Result-------\n";
 
     for(int i=0;i<n;i++){
         cout<<"Course : "<<courses[i].name<<endl;
